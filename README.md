@@ -15,9 +15,9 @@ In this project you'll take this crypto currency tracker app and build two custo
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-custom-hook`
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] cd into the project base directory `cd web-module-project-custom-hook`
 * [ ] Download project dependencies by running `npm install`
 * [ ] Start up the app using `npm start`
 
